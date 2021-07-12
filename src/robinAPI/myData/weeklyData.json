@@ -1,0 +1,158 @@
+{
+    "02/06/2021 17:43:09": {
+        "NASDAQ-COIN": {
+            "Sell": "0",
+            "Neutral": "0",
+            "Buy": "0"
+        },
+        "NASDAQ-MARA": {
+            "Sell": "7",
+            "Neutral": "8",
+            "Buy": "11"
+        },
+        "NASDAQ-AMZN": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NASDAQ-TQQQ": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-CCL": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NASDAQ-BYND": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-NVDA": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-AMC": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NASDAQ-AAPL": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NASDAQ-TSLA": {
+            "Sell": "8",
+            "Neutral": "9",
+            "Buy": "9"
+        }
+    },
+    "02/06/2021 17:45:31": {
+        "NASDAQ-AAPL": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NASDAQ-MARA": {
+            "Sell": "7",
+            "Neutral": "8",
+            "Buy": "11"
+        },
+        "NASDAQ-BYND": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-COIN": {
+            "Sell": "0",
+            "Neutral": "0",
+            "Buy": "0"
+        },
+        "NASDAQ-TSLA": {
+            "Sell": "8",
+            "Neutral": "9",
+            "Buy": "9"
+        },
+        "NYSE-CCL": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NASDAQ-NVDA": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NASDAQ-TQQQ": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NASDAQ-AMZN": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-AMC": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        }
+    },
+    "19/06/2021 21:51:42": {
+        "NASDAQ-AAPL": {
+            "Sell": "2",
+            "Neutral": "7",
+            "Buy": "17"
+        },
+        "NASDAQ-MARA": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NASDAQ-BYND": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NASDAQ-COIN": {
+            "Sell": "2",
+            "Neutral": "0",
+            "Buy": "0"
+        },
+        "NASDAQ-TSLA": {
+            "Sell": "9",
+            "Neutral": "9",
+            "Buy": "8"
+        },
+        "NYSE-CCL": {
+            "Sell": "7",
+            "Neutral": "10",
+            "Buy": "9"
+        },
+        "NASDAQ-NVDA": {
+            "Sell": "1",
+            "Neutral": "8",
+            "Buy": "17"
+        },
+        "NASDAQ-TQQQ": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NASDAQ-AMZN": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-AMC": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        }
+    }
+}

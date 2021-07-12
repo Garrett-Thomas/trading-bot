@@ -1,0 +1,14 @@
+Progress:
+  Currently scrapes data from listed exchanges. Stores data in JSON files. That is done
+  in stockFetcher script. StockPicker.py will use that data to make a trading decision.
+
+[] Switch to different webdriver. Maybe firefox. Chrome takes too much
+memory and is slow.
+
+[x] continously log data to build a dataset
+
+[x] figure out button manipulation on the website
+
+[c] place all the stock names in a seperate file, either txt or json
+
+[] at some point integrate with a real exchange and make trades! (maybe)
