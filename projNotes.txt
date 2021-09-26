@@ -1,0 +1,112 @@
+8/22/21:
+	* Figured out why I couldn't read any data from portBuild.py from server.js. All output to the 
+	terminal is buffered meaning that it will wait and collect data then dump it to stdio at leisure. 
+	By adding sys.stdout.flush() all buffered data is flushed to stdio. Then once its flushed, 
+	the data can be read from the node side at server.js
+	
+	* The client now receives portfolio value data. For further ease, I think portBuild.py should 
+	grab all data about my portfolio and package it as a JSON object. That way when its passed 
+	to the server it won't need to parse anything and can send as is to client.
+
+	* Had a thought about front end design. Maybe I should lay out the website vertically 
+	so it can be more mobile friendly.
+
+	* Very productive. Need to figure out the timing for all the py scripts on server.js. Then figure 
+	out how to get the graph to update in real time and the project will be functionally complete. 
+	After that it will just be refactoring hell lol.
+
+8/27/21:
+	* Before timing should be implemented on the scripts, I need to figure out the graph 
+	situation, I need historical data to build a complete graph that dates back a week or a month.
+	I think for now it should just be charted in real time, no historical data. If you refresh 
+	then you will lose the data but for now that will be the easiest. Mongodb integration would 
+	be best instead of storing data locally.
+
+	* Current project state: All the python scripts regarding making trades and collecting data 
+	are complete. All that's needed is the timing of the scripts to ensure they run daily. I thought 
+	that server.js could manage all of that timing. 
+	client receives server time and portfolio data as of right now. Figuring out how to make the 
+	graph display Portfolio Value.
+
+	* I need to figure out how to update both the data tab and graph component withought making 
+	seperate API calls. I think that I could JSX both datatab and Graph in apiFetch.js. 
+	Then I could pass api data as "tags" or parameters to those objects ex. <Graph name=""/>. 
+	I think that Graph will re render each time its state is modified in that way. I may be wrong.
+
+8/28/21:
+	* Restructered apiFetch.js. It now passes data gathered into a function/component named Data.
+	The obvious benefit now is that data collection and rendering are now seperated.
+
+	* I need to figure out wether I should use FUNCTIONS or CLASSES to make components. I think 
+	functions are more ES6 standard and CLASSES are the more classical method. I should look at 
+	react projects to see how they are structured too. I need to figure out an easy way to pass data 
+	to the graph. I think importing it as a function is not a bad idea.
+
+9/9/21:
+	* Been trying to figure out how to pass data into the Graph. Data is received via apiFetch.js
+	and is in a valid format. I cannot seem to pass in the data to Graph though. Graph.js is called 
+	once throughout the execution even though it has changing props and apiFetches state changes 
+	second.
+
+	* Next time I work on this I need to figure out how often apiFetch.js recalls its render method. 
+	How state works in react.js, and the best solution to passing in data to Graph.js.
+
+	* Every time I advance further in this project I become more worried because I really know so 
+	little about react. I am just patching all of this together with googled knowledge and 
+	don't know what a proper react project looks like. I would say start another smaller 
+	project to learn how the basics of react. State, props, and components.
+
+9/13/21: 
+	* I got it to work! Graph now updates in realtime. Restructered App.js so 
+	its doing the fetch calls and not apiFetch.js. It keeps adding more data to state
+	as it rolls in.
+
+	* Because all the data collected is added to an array. I think it should be a "rolling"
+	dataset. Maybe for the default graph setting, once 60 datapoints is reached, the oldest 
+	data point will be deleted as a new one is added, making it so you can only see 
+	the last 60 seconds or so of data.
+
+9/14/21:
+	* Modified the portBuild.py to put in data to a sin function to make a wave on 
+	the graph to see if it was updating correctly. It now updates keeping only the 10 most 
+	recent data points.
+
+	* Redid the css and did away with the grid structure. Borrowing heavily from 
+	the little react tutorial's css. 
+
+	* Need to figure out other data I want included on the page such as most recent 
+	trades, total percent gains, and todays gains. Maybe add a footer and a little about 
+	page.
+
+9/15/21
+	* Front end is functionally complete. I think the styling looks presentable as is.
+
+	* All that is really is left to do is backend work.
+
+9/20/21
+	* Reformatted stockPicker.py, so it will iteravely pick the best stock option to sell and buy.
+	Also, trying to make stockTrader save transactions with exchange name listed so I 
+	can use that data to build the portfolio.
+
+	* All thats needed to do is figure out when the markets are open and when I can trade. 
+	Have the script run once a day and continously feed server.js with stock data.
+	
+9/22/21
+	* Created spTicker.py which grabs all sp500 tickers and figures out what exchange they 
+	are traded on and saves all the data to portfolio.txt. 
+	
+	* TODO refactor the code in stockTrader.py. Variable names are wacky and commenting is sparse.
+	I'm either tired or actually did a bad job of commenting and naming because nothin makes sense.
+
+	* Front end is functionally complete with the backend nearing completion. Need to decide if I 
+	want dedicated hosting in the cloud or to run all this off a raspberry pi.
+
+9/25/21
+	* Finally figured out how to get the python to print its output even though its unbuffered.
+	I think the trick was to add the {stdio: 'inherit'} argument to the spawn() function
+
+	* Really just need to double check the logic in stockTrader.py and stockPicker.py everything 
+	else seems solid IMO. Then the project will literally be done lol. 
+
+	* After I am confident it is deployment ready I could add more functionality to the front end 
+	and maybe make it a little prettier.

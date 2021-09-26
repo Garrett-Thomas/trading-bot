@@ -1,28 +1,65 @@
-import { LineChart, Line, XAxis, YAxis, Label } from "recharts";
+import { Component } from "react";
+import {
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  ResponsiveContainer,
+  Scatter,
+  ScatterChart,
+  Tooltip,
+} from "recharts";
+import React from "react";
+import moment from "moment";
 import "./Graph.css";
-function Graph() {
-  const data = [{ name: "Page A", uv: 400, pv: 2400, amt: 2400 }];
 
-  const renderLineChart = (
-    <div className="Graph">
-      <LineChart
-        width={400}
-        height={400}
-        data={data}
-        margin={{ top: 20, right: 10, bottom: 20, left: 10 }}
-      >
-        <Line type="monotone" dataKey="uv" stroke="#8884d8" />
-        <XAxis
-          dataKey="time"
-          tick={{ fill: "#282c34" }}
-          tickLine={{ stroke: "#000000" }}
-        >
-          <Label value="Time" position="bottom" offset={0} />
-        </XAxis>
-        <YAxis type="number" domain={[0, 5000]} />
-      </LineChart>
-    </div>
-  );
-  return renderLineChart;
+class Graph extends Component {
+  render() {
+    return (
+      <div className="graph">
+        <ResponsiveContainer width="100%" aspect={3}>
+          <ScatterChart
+            width={500}
+            height={300}
+            data={this.props.data}
+            // I should find a way to make the margin as the values 
+            // in the x and y change mkain the graph seem spaced weird
+            margin={{
+              top: 5,
+              right: 50,
+              left: -10,
+              bottom: 5,
+            }}
+          >
+            <CartesianGrid strokeDasharray="3 3" />
+            <XAxis
+              dataKey="time"
+              domain={["0", "10"]}
+              name="Time"
+              tickFormatter={(unixTime) => moment(unixTime).format("HH:mm:ss")}
+              tickCount="60"
+              type="number"
+            />
+            <YAxis
+              dataKey="value"
+              name="Value USD"
+              type="number"
+              domain={["auto", "auto"]}
+            />
+            <Tooltip cursor={{strokeDasharray: '3 3'}} label="test" />
+            <Scatter
+              animationDuration={75}
+              animationEasing={'linear'}
+              data={this.props.data}
+              dataKey="value"
+              line={{ stroke: "#eee" }}
+              lineJointType="monotoneX"
+              lineType="joint"
+              name="Values"
+            />
+          </ScatterChart>
+        </ResponsiveContainer>
+      </div>
+    );
+  }
 }
 export default Graph;

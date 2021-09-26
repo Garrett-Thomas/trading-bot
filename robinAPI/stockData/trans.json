@@ -1,0 +1,242 @@
+{
+    "08/17/2021 19:10:41": [
+        "APPL",
+        "VOOO"
+    ],
+    "08/17/2021 19:11:41": [
+        "APPL",
+        "Test1"
+    ],
+    "08/17/2021 19:10:12": [
+        "AAPL",
+        "Test2"
+    ],
+    "08/18/2021 15:03:14": {
+        "Bought": [
+            "TQQQ"
+        ],
+        "Sold": [
+            "CCL",
+            "BYND"
+        ]
+    },
+    "08/18/2021 15:04:37": {
+        "Bought": [
+            "TQQQ",
+            "AAPL"
+        ],
+        "Sold": [
+            "CCL",
+            "BYND"
+        ],
+        "Portfolio": [
+            "TQQQ",
+            "CSSS",
+            "GAAYYY",
+            "YUMMY",
+            "TeST"
+        ]
+    },
+    "08/18/2021 15:10:49": {
+        "Bought": [
+            "AAPL"
+        ],
+        "Sold": [
+            "BYND",
+            "CCL"
+        ],
+        "Portfolio": [
+            "SIRI",
+            "VOO"
+        ]
+    },
+    "08/18/2021 15:11:17": {
+        "Bought": [
+            "TQQQ",
+            "AAPL"
+        ],
+        "Sold": [
+            "BYND",
+            "CCL"
+        ],
+        "Portfolio": [
+            "SIRI",
+            "VOO"
+        ]
+    },
+    "08/18/2021 15:13:31": {
+        "Bought": [
+            "AAPL",
+            "TQQQ"
+        ],
+        "Sold": [
+            "CCL",
+            "BYND"
+        ],
+        "Portfolio": [
+            "SIRI",
+            "VOO"
+        ]
+    },
+    "08/18/2021 15:14:02": {
+        "Bought": [
+            "AAPL",
+            "TQQQ"
+        ],
+        "Sold": [
+            "CCL",
+            "BYND"
+        ],
+        "Portfolio": [
+            "SIRI",
+            "VOO",
+            "CCL"
+        ]
+    },
+    "08/18/2021 15:33:51": {
+        "Bought": [
+            "TQQQ",
+            "AAPL"
+        ],
+        "Sold": [
+            "CCL"
+        ],
+        "Portfolio": [
+            "SIRI",
+            "VOO"
+        ]
+    },
+    "08/18/2021 15:34:56": {
+        "Bought": [
+            "TQQQ",
+            "AAPL"
+        ],
+        "Sold": [],
+        "Portfolio": [
+            "SIRI",
+            "VOO"
+        ]
+    },
+    "08/18/2021 15:54:39": {
+        "Portfolio": [
+            "SIRI",
+            "VOO"
+        ],
+        "Bought": [],
+        "Sold": []
+    },
+    "08/18/2021 15:55:00": {
+        "Portfolio": [
+            "SIRI",
+            "VOO"
+        ],
+        "Bought": [],
+        "Sold": []
+    },
+    "08/19/2021 13:44:04": {
+        "Portfolio": [
+            "SIRI",
+            "VOO"
+        ],
+        "Bought": [],
+        "Sold": []
+    },
+    "08/19/2021 13:46:08": {
+        "Portfolio": [],
+        "Bought": [],
+        "Sold": []
+    },
+    "08/20/2021 11:57:18": {
+        "Portfolio": [],
+        "Bought": [],
+        "Sold": []
+    },
+    "08/21/2021 19:02:17": {
+        "Portfolio": [
+            "NASDAQ-AAPL",
+            "NASDAQ-MARA",
+            "NASDAQ-BYND",
+            "NASDAQ-COIN",
+            "NASDAQ-TSLA",
+            "NASDAQ-NVDA",
+            "NASDAQ-TQQQ",
+            "NASDAQ-AMZN",
+            "NYSE-PLTR",
+            "AMEX-VOO"
+        ],
+        "Buy": [
+            "AAPL",
+            "TQQQ"
+        ],
+        "Sell": [
+            "VOO",
+            "TSLA"
+        ]
+    },
+    "09/25/2021 15:59:01": {
+        "Sell": [],
+        "Buy": [],
+        "Portfolio": [
+            "VOO"
+        ]
+    },
+    "09/25/2021 16:05:34": {
+        "Sell": [],
+        "Buy": [],
+        "Portfolio": [
+            "VOO"
+        ]
+    },
+    "09/25/2021 16:27:25": {
+        "Sell": [],
+        "Buy": [
+            "TSCO",
+            "AAP",
+            "APA",
+            "CZR",
+            "MPC"
+        ],
+        "Portfolio": [
+            "VOO"
+        ]
+    },
+    "09/25/2021 16:31:32": {
+        "Sell": [],
+        "Buy": [
+            "TSCO",
+            "AAP",
+            "APA",
+            "CZR",
+            "MPC"
+        ],
+        "Portfolio": [
+            "VOO"
+        ]
+    },
+    "09/25/2021 16:33:17": {
+        "Sell": [],
+        "Buy": [
+            "COG",
+            "CPRT",
+            "FITB",
+            "IPG",
+            "KEY"
+        ],
+        "Portfolio": [
+            "VOO"
+        ]
+    },
+    "09/25/2021 18:33:20": {
+        "Sell": [],
+        "Buy": [
+            "COG",
+            "CPRT",
+            "FITB",
+            "IPG",
+            "KEY"
+        ],
+        "Portfolio": [
+            "VOO"
+        ]
+    }
+}

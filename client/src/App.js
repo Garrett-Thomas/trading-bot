@@ -1,35 +1,77 @@
 import React from "react";
 import "./App.css";
 import Graph from "./Graph";
+import Header from "./Header";
+import Data from "./Data";
 //import {useEffect, useState} from "react";
 
 // eslint-disable-line
 
-function App() {
-  const [data, setData] = React.useState(null);
+const dataSetSize = 10;
 
-  React.useEffect(() => {
-    fetch("/api")
-      .then((res) => res.json())
-      .then((data) => setData(data.message));
-  }, []);
+class App extends React.Component {
+  state = {
+    data: [{}],
+    totalGains: 0,
+    portVal: 0,
+    stocksBought: ["Loading..."],
+    stocksSold: ["Loading..."],
+  };
 
-  return (
-    <div className="App">
-      <div className="header">
-        <div className="container">
-          <h1>Trading Bot!</h1>
-          <p>a thomas production</p>
+  async componentDidMount() {
+    try {
+      setInterval(async () => {
+        //fetches data from /api and transfers values to the state.
+        fetch("/api")
+          .then((res) => res.json())
+          .then(
+            (servData) =>
+              // This will chop the data so it only holds 10 data points. Will bump it up to 60 for production
+              this.setState((prevState) => {
+                return {
+                  data:
+                    prevState.data.length >= dataSetSize
+                      ? [
+                          ...prevState.data.slice(1, dataSetSize),
+                          ...servData.data,
+                        ]
+                      : [...prevState.data, ...servData.data],
+                  totalGains: servData.totalGains,
+                  portVal: servData.portVal,
+                  stocksBought: servData.stocksBought,
+                  stocksSold: servData.stocksSold,
+                };
+              })
+
+            // this.setState({...servData,
+            //   data:
+            //     this.state.data.length >= dataSetSize
+            //       ? [...this.state.data.slice(1, dataSetSize), ...servData]
+            //       : [...this.state.data, ...servData],
+            // })
+          );
+        console.log(this.state);
+      }, 2000);
+    } catch (e) {
+      console.log(e);
+    }
+  }
+  render() {
+    return (
+      <div className="App">
+        <div className="inner">
+          <Header />
+          <Graph data={this.state.data} />
+          <Data
+            totalGains={this.state.totalGains}
+            portVal={this.state.portVal}
+            stocksBought={this.state.stocksBought}
+            stocksSold={this.state.stocksSold}
+          />
         </div>
       </div>
-      <p>{!data ? "Loading..." : data}</p>
-      <Graph />
-      <div className="dataTabs"></div>
-      <div className="footer">
-        <h2>Est. 2021</h2>
-      </div>
-    </div>
-  );
+    );
+  }
 }
 
 export default App;

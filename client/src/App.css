@@ -1,37 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 .App {
-  text-align: center;
-}
-.header{
-  width: 100%;
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  color: aqua;
-  background-color: blueviolet;
-}
-.footer{
-  width: 100%;
-  position: fixed;
-  left:0px;
-  bottom:0;
-  background-color: blueviolet;
-}
-h1{
-  font-size: 2em;
-}
-h2{
-  font-size: 1.5em;
-  font-weight: 100;
-}
-p {
-  font-size: .5em;
-  font-style: italic;
-}
-/* .container{
-  width:80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
   margin: 0 auto;
-} */
-.Graph{
-  top:50%;
-  position: relative;
+}
+.inner {
+  width: 100%;
+  /* padding moves all the items in the container. As of right now its the graph
+  and header */
+  padding: 2rem 10px 10rem;
+}
+.header, .dataTabs {
+  text-transform: lowercase;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 100;
+  line-height: 2em;
+  /* margin-bottom moves the graph lower */
+ 
+}
+.header {
+   margin-bottom: 8rem;
+  border-bottom: 2px solid #eaeaea;
+}
+
+.dataTabs {
+  margin-top: 2rem;
 }
