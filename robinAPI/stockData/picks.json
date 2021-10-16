@@ -4550,5 +4550,35 @@
                 "Buy": "17"
             }
         }
+    },
+    "10/12/2021 11:55:22": {
+        "Sell": {},
+        "Buy": {
+            "NYSE-DRE": {
+                "Sell": "0",
+                "Neutral": "8",
+                "Buy": "18"
+            },
+            "NASDAQ-MTCH": {
+                "Sell": "1",
+                "Neutral": "7",
+                "Buy": "18"
+            },
+            "NYSE-PLD": {
+                "Sell": "1",
+                "Neutral": "7",
+                "Buy": "18"
+            },
+            "NYSE-AVB": {
+                "Sell": "0",
+                "Neutral": "9",
+                "Buy": "17"
+            },
+            "NYSE-ED": {
+                "Sell": "0",
+                "Neutral": "9",
+                "Buy": "17"
+            }
+        }
     }
 }

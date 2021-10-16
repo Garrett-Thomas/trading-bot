@@ -1,10 +1,7 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from collections import OrderedDict
-from operator import getitem
 from os import path
-from pathlib import Path
 from datetime import datetime
 from Variables import *
 
@@ -64,36 +61,31 @@ def saveData(type, saveDict, date):
             json.dump(saveDict, outfile, indent=4, sort_keys=False)
 
 
-def getHTML(stock, sleepVar=1, weekData=False):
+def getHTML(stock, sleepVar=2, retryCount=0):
     # What is actually getting the data from the website.
     driver.get(baseUrl + stock + afterUrl)
     # The time.sleep() is incredibly important. Time is needed to run javascript in the browser
     # and for html to reach final state.
     time.sleep(sleepVar)
-    if(weekData):
-        try:
-            weekButton = driver.find_element_by_id('1W')
-        except:
-            print("fatal error")
-            quit()
-
-        weekButton.click()
-        time.sleep(sleepVar)
     # page_source attribute allows you to access raw html. BeautifulSoup parses it.
     data = driver.page_source
     soup = BeautifulSoup(data, "html.parser")
 
     # This searches the html for <span> tags with classes matching the regex. Returns a list.
-    print("Getting " + ("weekly" if weekData else "daily") + " data from " + stock)
+    print("Getting data from " + stock)
+
     indTags = soup.findAll('span', class_=indReg)
 
     try:
         results[stock] = {'Sell': str(indTags[3].contents[0]), 'Neutral': str(
             indTags[4].contents[0]), 'Buy': str(indTags[5].contents[0])}
-    except:
-        print("Fatal Error " + stock)
-        print(indTags)
-        quit()
+    except Exception as e:
+        if(retryCount < 3):
+            print("Received error. Will retry with longer sleep time")
+            getHTML(stock, sleepVar + 2, retryCount + 1)
+        else:    
+            print(e)
+            quit()
 
 
 def getDailyWeeklyData():

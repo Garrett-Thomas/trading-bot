@@ -37,7 +37,7 @@ class StockTrader:
 
         # This is part of my two-factor auth. The string below serves as 
         # a seed to generate a code to be used upon login.
-        totp = pyotp.TOTP("GGJT4LZYFC4LS5UR").now()
+        totp = pyotp.TOTP(passSeed).now()
         login = r.login(email, password, mfa_code=totp)
         my_stocks = r.build_holdings()
         repoDict = dict()

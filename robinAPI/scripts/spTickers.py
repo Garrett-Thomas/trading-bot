@@ -8,13 +8,13 @@ from multiprocessing.pool import ThreadPool
 
 baseUrl = "https://www.tradingview.com/symbols/"
 afterUrl = "/technicals/"
-exchanges = ['NASDAQ', 'AMEX', 'NYSE']
+exchanges = ['NYSE', 'NASDAQ', 'AMEX']
 thread_count = 40
 
 # Following 3 lines get list of proxies to use.
-list_of_proxies = requests.get("https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt").text.split("\n")
+list_of_proxies = requests.get("https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt").text.split("\n")
 del list_of_proxies[len(list_of_proxies)-1]
-list_of_proxies = list(map(lambda prx: "http://" + prx, list_of_proxies))
+list_of_proxies = list(map(lambda prxy: "http://" + prxy, list_of_proxies))
 
 # Returns a random proxy as a dict object
 def get_rand_proxy(myProxies):
@@ -60,7 +60,7 @@ def run():
 
     sp_tickers = get_sp500_tickers()
 
-    # Gets avg. Not perfect as the last thread takes up
+    # Gets avg. Not a great distribution for each thread. Last thread ends up with 1.5x more tickers on average.
     thread_tank = []
     stock_per_thread = round(len(sp_tickers) / thread_count)
     proxy_per_thread = round(len(list_of_proxies) / thread_count)
@@ -71,7 +71,7 @@ def run():
 
     """
     Using "pool" library to manage threads. This library allows the threads to 
-    store the return value of the function they call. Retrieve this value using get()
+    store the return value of the function they call. Retrieve this value using get().
 
     """
     print("Starting {0} threads".format(thread_count))
@@ -98,49 +98,4 @@ def run():
             file.write("%s\n" % stock)
 
     end = time.perf_counter()
-    print("Operation finished in {0}".format(end-start))
-
-    print(stocks_with_exchanges)
-
-
-
-
-
-
-
-# from datetime import datetime
-# from collections import OrderedDict
-# from Variables import *
-# from stockPicker import StockPicker
-# import json
-# # print(datetime.now().strftime("%m/%d/%Y %H:%M:%S"))
-# portfolio = open(parentDir + portfolioDir, 'r')
-# stocks_with_exchanges = portfolio.readlines()
-
-# totp = pyotp.TOTP(passSeed).now()
-# login = r.login(email, password, mfa_code=totp)
-
-# buying_power = r.load_phoenix_account()['account_buying_power']['amount']
-# portfolioValue = r.load_phoenix_account()['portfolio_equity']['amount']
-
-
-# print('You have {0} dollars to spend and your portfolio is worth {1} dollars'.format(buying_power, portfolioValue))
-
-
-
-# for x in range(len(stocks_with_exchanges)):
-#     stocks_with_exchanges[x] = stocks_with_exchanges[x].replace("\n", "")
-
-# with open(parentDir + picksDir, 'r') as day:
-#     data = json.load(day)
-#     keys = list(data)
-
-# data = data[keys[len(keys)-1]]
-
-# print(json.dumps(data, indent=4))
-
-# print(list(map(removeExchange, data['Sell'])))
-
-# for stock in data['Sell']:
-#     data['Sell'][stock] = removeExchange(stock)
-#     print(data['Sell'][stock])
+    print("Operation finished in {0} seconds".format(end-start))

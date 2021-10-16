@@ -8760,5 +8760,2532 @@
             "Neutral": "10",
             "Buy": "13"
         }
+    },
+    "10/12/2021 11:55:22": {
+        "NYSE-MMM": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-ABT": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-ABBV": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NASDAQ-ABMD": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NYSE-ACN": {
+            "Sell": "7",
+            "Neutral": "9",
+            "Buy": "10"
+        },
+        "NASDAQ-ATVI": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NASDAQ-ADBE": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NASDAQ-AMD": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-AAP": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-AES": {
+            "Sell": "5",
+            "Neutral": "10",
+            "Buy": "11"
+        },
+        "NYSE-AFL": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NYSE-A": {
+            "Sell": "15",
+            "Neutral": "7",
+            "Buy": "4"
+        },
+        "NYSE-APD": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NASDAQ-AKAM": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-ALK": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-ALB": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NYSE-ARE": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NASDAQ-ALGN": {
+            "Sell": "13",
+            "Neutral": "8",
+            "Buy": "5"
+        },
+        "NYSE-ALLE": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-LNT": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NYSE-ALL": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NASDAQ-GOOGL": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NASDAQ-GOOG": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NYSE-MO": {
+            "Sell": "7",
+            "Neutral": "10",
+            "Buy": "9"
+        },
+        "NASDAQ-AMZN": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-AMCR": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-AEE": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NASDAQ-AAL": {
+            "Sell": "11",
+            "Neutral": "8",
+            "Buy": "7"
+        },
+        "NASDAQ-AEP": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-AXP": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-AIG": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-AMT": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-AWK": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-AMP": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-ABC": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-AME": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NASDAQ-AMGN": {
+            "Sell": "17",
+            "Neutral": "8",
+            "Buy": "1"
+        },
+        "NYSE-APH": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NASDAQ-ADI": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NASDAQ-ANSS": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-ANTM": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NYSE-AON": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-AOS": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NASDAQ-APA": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-AAPL": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NASDAQ-AMAT": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-APTV": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-ADM": {
+            "Sell": "4",
+            "Neutral": "8",
+            "Buy": "14"
+        },
+        "NYSE-ANET": {
+            "Sell": "4",
+            "Neutral": "7",
+            "Buy": "15"
+        },
+        "NYSE-AJG": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-AIZ": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-T": {
+            "Sell": "17",
+            "Neutral": "7",
+            "Buy": "2"
+        },
+        "NYSE-ATO": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NASDAQ-ADSK": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NASDAQ-ADP": {
+            "Sell": "5",
+            "Neutral": "9",
+            "Buy": "12"
+        },
+        "NYSE-AZO": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-AVB": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NYSE-AVY": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-BKR": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-BLL": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NYSE-BAC": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-BBWI": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NYSE-BAX": {
+            "Sell": "16",
+            "Neutral": "7",
+            "Buy": "3"
+        },
+        "NYSE-BDX": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-BRK.B": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-BBY": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NYSE-BIO": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NASDAQ-TECH": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NASDAQ-BIIB": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-BLK": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-BK": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-BA": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NASDAQ-BKNG": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NYSE-BWA": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NYSE-BXP": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-BSX": {
+            "Sell": "13",
+            "Neutral": "8",
+            "Buy": "5"
+        },
+        "NYSE-BMY": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-AVGO": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-BR": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-BRO": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-BF.B": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NASDAQ-CHRW": {
+            "Sell": "8",
+            "Neutral": "7",
+            "Buy": "11"
+        },
+        "NASDAQ-CDNS": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NASDAQ-CZR": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-CPB": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-COF": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-CAH": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-KMX": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NYSE-CCL": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-CARR": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-CTLT": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NYSE-CAT": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "AMEX-CBOE": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-CBRE": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-CDW": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-CE": {
+            "Sell": "3",
+            "Neutral": "8",
+            "Buy": "15"
+        },
+        "NYSE-CNC": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-CNP": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-CDAY": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NASDAQ-CERN": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-CF": {
+            "Sell": "5",
+            "Neutral": "7",
+            "Buy": "14"
+        },
+        "NYSE-CRL": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NYSE-SCHW": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-CHTR": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-CVX": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NYSE-CMG": {
+            "Sell": "11",
+            "Neutral": "8",
+            "Buy": "7"
+        },
+        "NYSE-CB": {
+            "Sell": "3",
+            "Neutral": "8",
+            "Buy": "15"
+        },
+        "NYSE-CHD": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-CI": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NASDAQ-CINF": {
+            "Sell": "2",
+            "Neutral": "8",
+            "Buy": "16"
+        },
+        "NASDAQ-CTAS": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-CSCO": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-C": {
+            "Sell": "7",
+            "Neutral": "10",
+            "Buy": "9"
+        },
+        "NYSE-CFG": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NASDAQ-CTXS": {
+            "Sell": "17",
+            "Neutral": "7",
+            "Buy": "2"
+        },
+        "NYSE-CLX": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NASDAQ-CME": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NYSE-CMS": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-KO": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NASDAQ-CTSH": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-CL": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NASDAQ-CMCSA": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NYSE-CMA": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-CAG": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NYSE-COP": {
+            "Sell": "4",
+            "Neutral": "8",
+            "Buy": "14"
+        },
+        "NYSE-ED": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NYSE-STZ": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NYSE-COO": {
+            "Sell": "13",
+            "Neutral": "7",
+            "Buy": "6"
+        },
+        "NASDAQ-CPRT": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NYSE-GLW": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-CTVA": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NASDAQ-COST": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NYSE-CTRA": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NYSE-CCI": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NASDAQ-CSX": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NYSE-CMI": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-CVS": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-DHI": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-DHR": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-DRI": {
+            "Sell": "7",
+            "Neutral": "10",
+            "Buy": "9"
+        },
+        "NYSE-DVA": {
+            "Sell": "16",
+            "Neutral": "7",
+            "Buy": "3"
+        },
+        "NYSE-DE": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NYSE-DAL": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NASDAQ-XRAY": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-DVN": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NASDAQ-DXCM": {
+            "Sell": "5",
+            "Neutral": "9",
+            "Buy": "12"
+        },
+        "NASDAQ-FANG": {
+            "Sell": "7",
+            "Neutral": "5",
+            "Buy": "14"
+        },
+        "NYSE-DLR": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-DFS": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NASDAQ-DISCA": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-DISCK": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-DISH": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-DG": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NASDAQ-DLTR": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NYSE-D": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-DPZ": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NYSE-DOV": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NYSE-DOW": {
+            "Sell": "17",
+            "Neutral": "8",
+            "Buy": "1"
+        },
+        "NYSE-DTE": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-DUK": {
+            "Sell": "9",
+            "Neutral": "9",
+            "Buy": "8"
+        },
+        "NYSE-DRE": {
+            "Sell": "0",
+            "Neutral": "8",
+            "Buy": "18"
+        },
+        "NYSE-DD": {
+            "Sell": "15",
+            "Neutral": "7",
+            "Buy": "4"
+        },
+        "NYSE-DXC": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-EMN": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-ETN": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NASDAQ-EBAY": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-ECL": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-EIX": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-EW": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NASDAQ-EA": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-EMR": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NASDAQ-ENPH": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-ETR": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-EOG": {
+            "Sell": "6",
+            "Neutral": "6",
+            "Buy": "14"
+        },
+        "NYSE-EFX": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NASDAQ-EQIX": {
+            "Sell": "13",
+            "Neutral": "8",
+            "Buy": "5"
+        },
+        "NYSE-EQR": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-ESS": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NYSE-EL": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NASDAQ-ETSY": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NYSE-EVRG": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-ES": {
+            "Sell": "6",
+            "Neutral": "9",
+            "Buy": "11"
+        },
+        "NYSE-RE": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-EXC": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NASDAQ-EXPE": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-EXPD": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NYSE-EXR": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-XOM": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NASDAQ-FFIV": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NASDAQ-FB": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NASDAQ-FAST": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-FRT": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NYSE-FDX": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-FIS": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NASDAQ-FITB": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-FE": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-FRC": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-FISV": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NYSE-FLT": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-FMC": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-F": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NASDAQ-FTNT": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-FTV": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NYSE-FBHS": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NASDAQ-FOXA": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-FOX": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NYSE-BEN": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NYSE-FCX": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NYSE-GPS": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NASDAQ-GRMN": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-IT": {
+            "Sell": "9",
+            "Neutral": "9",
+            "Buy": "8"
+        },
+        "NYSE-GNRC": {
+            "Sell": "5",
+            "Neutral": "9",
+            "Buy": "12"
+        },
+        "NYSE-GD": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-GE": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NYSE-GIS": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-GM": {
+            "Sell": "3",
+            "Neutral": "8",
+            "Buy": "15"
+        },
+        "NYSE-GPC": {
+            "Sell": "4",
+            "Neutral": "7",
+            "Buy": "15"
+        },
+        "NASDAQ-GILD": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-GL": {
+            "Sell": "5",
+            "Neutral": "10",
+            "Buy": "11"
+        },
+        "NYSE-GPN": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NYSE-GS": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NYSE-GWW": {
+            "Sell": "5",
+            "Neutral": "9",
+            "Buy": "12"
+        },
+        "NYSE-HAL": {
+            "Sell": "6",
+            "Neutral": "6",
+            "Buy": "14"
+        },
+        "NYSE-HBI": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NYSE-HIG": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NASDAQ-HAS": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-HCA": {
+            "Sell": "11",
+            "Neutral": "7",
+            "Buy": "8"
+        },
+        "NYSE-PEAK": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NASDAQ-HSIC": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-HSY": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-HES": {
+            "Sell": "5",
+            "Neutral": "6",
+            "Buy": "15"
+        },
+        "NYSE-HPE": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NYSE-HLT": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NASDAQ-HOLX": {
+            "Sell": "16",
+            "Neutral": "8",
+            "Buy": "2"
+        },
+        "NYSE-HD": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-HON": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-HRL": {
+            "Sell": "6",
+            "Neutral": "9",
+            "Buy": "11"
+        },
+        "NASDAQ-HST": {
+            "Sell": "2",
+            "Neutral": "8",
+            "Buy": "16"
+        },
+        "NYSE-HWM": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-HPQ": {
+            "Sell": "17",
+            "Neutral": "9",
+            "Buy": "0"
+        },
+        "NYSE-HUM": {
+            "Sell": "4",
+            "Neutral": "8",
+            "Buy": "14"
+        },
+        "NASDAQ-HBAN": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-HII": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-IEX": {
+            "Sell": "16",
+            "Neutral": "7",
+            "Buy": "3"
+        },
+        "NASDAQ-IDXX": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-INFO": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NYSE-ITW": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NASDAQ-ILMN": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NASDAQ-INCY": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-IR": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NASDAQ-INTC": {
+            "Sell": "18",
+            "Neutral": "8",
+            "Buy": "0"
+        },
+        "NYSE-ICE": {
+            "Sell": "4",
+            "Neutral": "7",
+            "Buy": "15"
+        },
+        "NYSE-IBM": {
+            "Sell": "5",
+            "Neutral": "10",
+            "Buy": "11"
+        },
+        "NYSE-IP": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-IPG": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NYSE-IFF": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NASDAQ-INTU": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NASDAQ-ISRG": {
+            "Sell": "15",
+            "Neutral": "6",
+            "Buy": "5"
+        },
+        "NYSE-IVZ": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NASDAQ-IPGP": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-IQV": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-IRM": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NASDAQ-JKHY": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-J": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NASDAQ-JBHT": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NYSE-SJM": {
+            "Sell": "8",
+            "Neutral": "8",
+            "Buy": "10"
+        },
+        "NYSE-JNJ": {
+            "Sell": "16",
+            "Neutral": "10",
+            "Buy": "0"
+        },
+        "NYSE-JCI": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-JPM": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-JNPR": {
+            "Sell": "3",
+            "Neutral": "8",
+            "Buy": "15"
+        },
+        "NYSE-KSU": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-K": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-KEY": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-KEYS": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-KMB": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NYSE-KIM": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NYSE-KMI": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NASDAQ-KLAC": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NASDAQ-KHC": {
+            "Sell": "7",
+            "Neutral": "9",
+            "Buy": "10"
+        },
+        "NYSE-KR": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NYSE-LHX": {
+            "Sell": "3",
+            "Neutral": "8",
+            "Buy": "15"
+        },
+        "NYSE-LH": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NASDAQ-LRCX": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NYSE-LW": {
+            "Sell": "14",
+            "Neutral": "7",
+            "Buy": "5"
+        },
+        "NYSE-LVS": {
+            "Sell": "5",
+            "Neutral": "10",
+            "Buy": "11"
+        },
+        "NYSE-LEG": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-LDOS": {
+            "Sell": "7",
+            "Neutral": "8",
+            "Buy": "11"
+        },
+        "NYSE-LEN": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-LLY": {
+            "Sell": "10",
+            "Neutral": "8",
+            "Buy": "8"
+        },
+        "NYSE-LNC": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-LIN": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NYSE-LYV": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NASDAQ-LKQ": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-LMT": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-L": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-LOW": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-LUMN": {
+            "Sell": "16",
+            "Neutral": "7",
+            "Buy": "3"
+        },
+        "NYSE-LYB": {
+            "Sell": "9",
+            "Neutral": "9",
+            "Buy": "8"
+        },
+        "NYSE-MTB": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-MRO": {
+            "Sell": "7",
+            "Neutral": "5",
+            "Buy": "14"
+        },
+        "NYSE-MPC": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-MKTX": {
+            "Sell": "17",
+            "Neutral": "7",
+            "Buy": "2"
+        },
+        "NASDAQ-MAR": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-MMC": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-MLM": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NYSE-MAS": {
+            "Sell": "9",
+            "Neutral": "9",
+            "Buy": "8"
+        },
+        "NYSE-MA": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-MTCH": {
+            "Sell": "1",
+            "Neutral": "7",
+            "Buy": "18"
+        },
+        "NYSE-MKC": {
+            "Sell": "16",
+            "Neutral": "7",
+            "Buy": "3"
+        },
+        "NYSE-MCD": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NYSE-MCK": {
+            "Sell": "5",
+            "Neutral": "10",
+            "Buy": "11"
+        },
+        "NYSE-MDT": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-MRK": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-MET": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-MTD": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-MGM": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NASDAQ-MCHP": {
+            "Sell": "16",
+            "Neutral": "8",
+            "Buy": "2"
+        },
+        "NASDAQ-MU": {
+            "Sell": "16",
+            "Neutral": "10",
+            "Buy": "0"
+        },
+        "NASDAQ-MSFT": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NYSE-MAA": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NASDAQ-MRNA": {
+            "Sell": "13",
+            "Neutral": "8",
+            "Buy": "5"
+        },
+        "NYSE-MHK": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NYSE-TAP": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NASDAQ-MDLZ": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NASDAQ-MPWR": {
+            "Sell": "11",
+            "Neutral": "8",
+            "Buy": "7"
+        },
+        "NASDAQ-MNST": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-MCO": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NYSE-MS": {
+            "Sell": "12",
+            "Neutral": "8",
+            "Buy": "6"
+        },
+        "NYSE-MOS": {
+            "Sell": "6",
+            "Neutral": "5",
+            "Buy": "15"
+        },
+        "NYSE-MSI": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NYSE-MSCI": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NASDAQ-NDAQ": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-NTAP": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NASDAQ-NFLX": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-NWL": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-NEM": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NASDAQ-NWSA": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NASDAQ-NWS": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-NEE": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-NLSN": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NYSE-NKE": {
+            "Sell": "9",
+            "Neutral": "9",
+            "Buy": "8"
+        },
+        "NYSE-NI": {
+            "Sell": "7",
+            "Neutral": "9",
+            "Buy": "10"
+        },
+        "NYSE-NSC": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NASDAQ-NTRS": {
+            "Sell": "2",
+            "Neutral": "8",
+            "Buy": "16"
+        },
+        "NYSE-NOC": {
+            "Sell": "5",
+            "Neutral": "6",
+            "Buy": "15"
+        },
+        "NASDAQ-NLOK": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-NCLH": {
+            "Sell": "4",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NYSE-NRG": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-NUE": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NASDAQ-NVDA": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NYSE-NVR": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NASDAQ-NXPI": {
+            "Sell": "16",
+            "Neutral": "8",
+            "Buy": "2"
+        },
+        "NASDAQ-ORLY": {
+            "Sell": "5",
+            "Neutral": "10",
+            "Buy": "11"
+        },
+        "NYSE-OXY": {
+            "Sell": "4",
+            "Neutral": "8",
+            "Buy": "14"
+        },
+        "NASDAQ-ODFL": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NYSE-OMC": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-OKE": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-ORCL": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-OGN": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "13"
+        },
+        "NYSE-OTIS": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NASDAQ-PCAR": {
+            "Sell": "8",
+            "Neutral": "7",
+            "Buy": "11"
+        },
+        "NYSE-PKG": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-PH": {
+            "Sell": "13",
+            "Neutral": "8",
+            "Buy": "5"
+        },
+        "NASDAQ-PAYX": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-PAYC": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-PYPL": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-PENN": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-PNR": {
+            "Sell": "12",
+            "Neutral": "8",
+            "Buy": "6"
+        },
+        "NASDAQ-PBCT": {
+            "Sell": "2",
+            "Neutral": "11",
+            "Buy": "13"
+        },
+        "NASDAQ-PEP": {
+            "Sell": "2",
+            "Neutral": "8",
+            "Buy": "16"
+        },
+        "NYSE-PKI": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-PFE": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-PM": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-PSX": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-PNW": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-PXD": {
+            "Sell": "7",
+            "Neutral": "5",
+            "Buy": "14"
+        },
+        "NYSE-PNC": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-POOL": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-PPG": {
+            "Sell": "8",
+            "Neutral": "9",
+            "Buy": "9"
+        },
+        "NYSE-PPL": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NASDAQ-PFG": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-PG": {
+            "Sell": "3",
+            "Neutral": "10",
+            "Buy": "13"
+        },
+        "NYSE-PGR": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-PLD": {
+            "Sell": "1",
+            "Neutral": "7",
+            "Buy": "18"
+        },
+        "NYSE-PRU": {
+            "Sell": "3",
+            "Neutral": "8",
+            "Buy": "15"
+        },
+        "NASDAQ-PTC": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-PEG": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-PSA": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-PHM": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NYSE-PVH": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NASDAQ-QRVO": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NYSE-PWR": {
+            "Sell": "7",
+            "Neutral": "10",
+            "Buy": "9"
+        },
+        "NASDAQ-QCOM": {
+            "Sell": "17",
+            "Neutral": "7",
+            "Buy": "2"
+        },
+        "NYSE-DGX": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NYSE-RL": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NYSE-RJF": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-RTX": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-O": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-REG": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NASDAQ-REGN": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-RF": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-RSG": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-RMD": {
+            "Sell": "13",
+            "Neutral": "6",
+            "Buy": "7"
+        },
+        "NYSE-RHI": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NYSE-ROK": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-ROL": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-ROP": {
+            "Sell": "11",
+            "Neutral": "9",
+            "Buy": "6"
+        },
+        "NASDAQ-ROST": {
+            "Sell": "15",
+            "Neutral": "7",
+            "Buy": "4"
+        },
+        "NYSE-RCL": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NYSE-SPGI": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        },
+        "NYSE-CRM": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NASDAQ-SBAC": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NYSE-SLB": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-STX": {
+            "Sell": "16",
+            "Neutral": "10",
+            "Buy": "0"
+        },
+        "NYSE-SEE": {
+            "Sell": "7",
+            "Neutral": "9",
+            "Buy": "10"
+        },
+        "NYSE-SRE": {
+            "Sell": "14",
+            "Neutral": "8",
+            "Buy": "4"
+        },
+        "NYSE-NOW": {
+            "Sell": "6",
+            "Neutral": "9",
+            "Buy": "11"
+        },
+        "NYSE-SHW": {
+            "Sell": "6",
+            "Neutral": "9",
+            "Buy": "11"
+        },
+        "NYSE-SPG": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NASDAQ-SWKS": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NYSE-SNA": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NYSE-SO": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-LUV": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NYSE-SWK": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-SBUX": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-STT": {
+            "Sell": "3",
+            "Neutral": "8",
+            "Buy": "15"
+        },
+        "NYSE-STE": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-SYK": {
+            "Sell": "13",
+            "Neutral": "8",
+            "Buy": "5"
+        },
+        "NASDAQ-SIVB": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-SYF": {
+            "Sell": "2",
+            "Neutral": "10",
+            "Buy": "14"
+        },
+        "NASDAQ-SNPS": {
+            "Sell": "10",
+            "Neutral": "9",
+            "Buy": "7"
+        },
+        "NYSE-SYY": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-TMUS": {
+            "Sell": "14",
+            "Neutral": "7",
+            "Buy": "5"
+        },
+        "NASDAQ-TROW": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NASDAQ-TTWO": {
+            "Sell": "3",
+            "Neutral": "9",
+            "Buy": "14"
+        },
+        "NYSE-TPR": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-TGT": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NYSE-TEL": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-TDY": {
+            "Sell": "11",
+            "Neutral": "10",
+            "Buy": "5"
+        },
+        "NYSE-TFX": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NASDAQ-TER": {
+            "Sell": "15",
+            "Neutral": "10",
+            "Buy": "1"
+        },
+        "NASDAQ-TSLA": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NASDAQ-TXN": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-TXT": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-TMO": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NYSE-TJX": {
+            "Sell": "16",
+            "Neutral": "6",
+            "Buy": "4"
+        },
+        "NASDAQ-TSCO": {
+            "Sell": "10",
+            "Neutral": "8",
+            "Buy": "8"
+        },
+        "NYSE-TT": {
+            "Sell": "16",
+            "Neutral": "7",
+            "Buy": "3"
+        },
+        "NYSE-TDG": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-TRV": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NASDAQ-TRMB": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-TFC": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-TWTR": {
+            "Sell": "12",
+            "Neutral": "9",
+            "Buy": "5"
+        },
+        "NYSE-TYL": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-TSN": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-UDR": {
+            "Sell": "0",
+            "Neutral": "9",
+            "Buy": "17"
+        },
+        "NASDAQ-ULTA": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-USB": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-UAA": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-UA": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-UNP": {
+            "Sell": "6",
+            "Neutral": "8",
+            "Buy": "12"
+        },
+        "NASDAQ-UAL": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NYSE-UNH": {
+            "Sell": "7",
+            "Neutral": "9",
+            "Buy": "10"
+        },
+        "NYSE-UPS": {
+            "Sell": "14",
+            "Neutral": "10",
+            "Buy": "2"
+        },
+        "NYSE-URI": {
+            "Sell": "10",
+            "Neutral": "8",
+            "Buy": "8"
+        },
+        "NYSE-UHS": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NYSE-VLO": {
+            "Sell": "3",
+            "Neutral": "8",
+            "Buy": "15"
+        },
+        "NYSE-VTR": {
+            "Sell": "10",
+            "Neutral": "10",
+            "Buy": "6"
+        },
+        "NASDAQ-VRSN": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NASDAQ-VRSK": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-VZ": {
+            "Sell": "17",
+            "Neutral": "8",
+            "Buy": "1"
+        },
+        "NASDAQ-VRTX": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NYSE-VFC": {
+            "Sell": "5",
+            "Neutral": "9",
+            "Buy": "12"
+        },
+        "NASDAQ-VIAC": {
+            "Sell": "17",
+            "Neutral": "9",
+            "Buy": "0"
+        },
+        "NASDAQ-VTRS": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NYSE-V": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NYSE-VNO": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-VMC": {
+            "Sell": "13",
+            "Neutral": "10",
+            "Buy": "3"
+        },
+        "NYSE-WRB": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-WAB": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-WMT": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NASDAQ-WBA": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-DIS": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NYSE-WM": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-WAT": {
+            "Sell": "14",
+            "Neutral": "7",
+            "Buy": "5"
+        },
+        "NYSE-WEC": {
+            "Sell": "15",
+            "Neutral": "8",
+            "Buy": "3"
+        },
+        "NYSE-WFC": {
+            "Sell": "8",
+            "Neutral": "10",
+            "Buy": "8"
+        },
+        "NYSE-WELL": {
+            "Sell": "7",
+            "Neutral": "10",
+            "Buy": "9"
+        },
+        "NYSE-WST": {
+            "Sell": "11",
+            "Neutral": "8",
+            "Buy": "7"
+        },
+        "NASDAQ-WDC": {
+            "Sell": "17",
+            "Neutral": "9",
+            "Buy": "0"
+        },
+        "NYSE-WU": {
+            "Sell": "16",
+            "Neutral": "9",
+            "Buy": "1"
+        },
+        "NYSE-WRK": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NYSE-WY": {
+            "Sell": "0",
+            "Neutral": "10",
+            "Buy": "16"
+        },
+        "NYSE-WHR": {
+            "Sell": "14",
+            "Neutral": "9",
+            "Buy": "3"
+        },
+        "NYSE-WMB": {
+            "Sell": "1",
+            "Neutral": "9",
+            "Buy": "16"
+        },
+        "NASDAQ-WLTW": {
+            "Sell": "2",
+            "Neutral": "9",
+            "Buy": "15"
+        },
+        "NASDAQ-WYNN": {
+            "Sell": "6",
+            "Neutral": "10",
+            "Buy": "10"
+        },
+        "NASDAQ-XEL": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-XLNX": {
+            "Sell": "1",
+            "Neutral": "10",
+            "Buy": "15"
+        },
+        "NYSE-XYL": {
+            "Sell": "13",
+            "Neutral": "9",
+            "Buy": "4"
+        },
+        "NYSE-YUM": {
+            "Sell": "12",
+            "Neutral": "10",
+            "Buy": "4"
+        },
+        "NASDAQ-ZBRA": {
+            "Sell": "13",
+            "Neutral": "8",
+            "Buy": "5"
+        },
+        "NYSE-ZBH": {
+            "Sell": "15",
+            "Neutral": "9",
+            "Buy": "2"
+        },
+        "NASDAQ-ZION": {
+            "Sell": "4",
+            "Neutral": "10",
+            "Buy": "12"
+        },
+        "NYSE-ZTS": {
+            "Sell": "9",
+            "Neutral": "10",
+            "Buy": "7"
+        }
     }
 }

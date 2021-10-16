@@ -1,14 +1,18 @@
-import stockTrader
-import marketOpen
 from Variables import *
 from stockPicker import StockPicker
 import robin_stocks.robinhood as r
+
+import stockTrader
+import marketOpen
 import spTickers
 import stockFetcher
 import sys
 import time
 import json
+import pyotp
 
+
+populateSize = 5
 """
 TODO:
 
@@ -19,14 +23,14 @@ TODO:
 
 
 """
-# if not marketOpen.is_market_open():
-#     quit()
-
 
 try:
 
     if sys.argv[1] != IndexError:
 
+        totp = pyotp.TOTP(passSeed).now()
+        login = r.login(email, password, mfa_code=totp)
+        
         # Will throw list out of range exception
         if sys.argv[1] == "populate":
             buyPower = float(r.account.load_phoenix_account("account_buying_power")['amount'])
@@ -56,15 +60,21 @@ try:
         for stock in heldStocks():
             r.order_sell
 
+    r.logout()
+
 except Exception as e:
     print('\nNo args provided\n')
         
+if not marketOpen.is_market_open():
+    print('\nMarkets are closed! Quitting!\n')
+    quit()
+
 
 spTickers.run()
 stockFetcher.getDailyWeeklyData()
 
 # First variable is sell Depth and second is Buy Depth but printed in console in opposite order.
-stockP = StockPicker(0, 5, parentDir + dailyDataDir)
+stockP = StockPicker(5, 5, parentDir + dailyDataDir)
 picks = stockP.chooseBest()
 print(json.dumps(picks, indent=4), flush=True)
 
